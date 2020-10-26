@@ -12,7 +12,7 @@
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build"
   },
   "dependencies": {
-    "gatsby": "^2.24.10",
+    "gatsby": "^2.24.86",
     "gatsby-theme-blog": "^2.0.2",
     "gatsby-theme-notes": "^2.0.3",
     "react": "^16.12.0",
